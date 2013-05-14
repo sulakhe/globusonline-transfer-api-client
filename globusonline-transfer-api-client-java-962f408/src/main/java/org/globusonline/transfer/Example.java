@@ -21,7 +21,7 @@ public class Example {
 	String sourcePath1 = "/Users/sulakhe/test2/test.txt";
 	String sourcePath2 = "/Users/sulakhe/test2/test-1.txt";
 	
-	String destPath = "/home/ryan/test.txt";
+	//String destPath = "/home/ryan/test.txt";
 	String destPath1 = "/~/test/test.txt";
 	String destPath2 = "/~/test/test-1.txt";
 
